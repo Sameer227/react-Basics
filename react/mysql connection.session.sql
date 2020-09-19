@@ -1,0 +1,1 @@
+INSERT INTO StudentInfo4 ("Sameer", "0901EE181093","EE","sameersatna72@gmail.com","hello")

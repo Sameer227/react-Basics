@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "school",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "name": "mysql connection",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "sameer"
+        }
+    ]
+}
